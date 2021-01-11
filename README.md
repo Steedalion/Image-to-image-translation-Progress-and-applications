@@ -1,4 +1,6 @@
 # Image-to-image-translation-Progress-and-applications
+<a href src='https://github.com/Steedalion/Image-to-image-translation-Progress-and-applications/raw/master/GAN%20i2i%20translation.pdf'> Full article here.
+#
 
 Image synthesis is uniquely position to give us insight into the working of deep learning by
 providing a visual representation for inner happenings. The culture of open-sourcing models in the
@@ -28,4 +30,3 @@ results of some other experiment.
 amount of growth in the last 5 years. We can anticipate more growth due to funding from private
 industries and interest from other related academic fields.
 
-<a href src='https://github.com/Steedalion/Image-to-image-translation-Progress-and-applications/raw/master/GAN%20i2i%20translation.pdf'> Full article here.
