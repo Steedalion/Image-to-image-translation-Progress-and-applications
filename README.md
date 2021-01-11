@@ -27,3 +27,5 @@ results of some other experiment.
 ## Research limitations/implications – Image-to-image translation techniques have seen a large
 amount of growth in the last 5 years. We can anticipate more growth due to funding from private
 industries and interest from other related academic fields.
+
+<a href src='https://github.com/Steedalion/Image-to-image-translation-Progress-and-applications/raw/master/GAN%20i2i%20translation.pdf'> Full article here.
