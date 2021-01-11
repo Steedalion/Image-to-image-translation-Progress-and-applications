@@ -1,5 +1,5 @@
 # Image-to-image-translation-Progress-and-applications
-<a href src='https://github.com/Steedalion/Image-to-image-translation-Progress-and-applications/raw/master/GAN%20i2i%20translation.pdf'> Full article here.
+<a href src='https://github.com/Steedalion/Image-to-image-translation-Progress-and-applications/raw/master/GAN_i2i_translation.pdf'> Full article here.
 #
 
 Image synthesis is uniquely position to give us insight into the working of deep learning by
